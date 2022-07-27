@@ -2,7 +2,7 @@
   "name": "discord-rpc",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "index.js",
   "dependencies": {
     "chalk": "^4.1.2",
     "discord.js": "^11.6.4",
